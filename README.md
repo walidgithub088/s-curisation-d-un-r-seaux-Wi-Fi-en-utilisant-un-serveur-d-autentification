@@ -19,4 +19,4 @@ Cette architecture se compose des nœuds principaux suivants :
 5. Configurer le point d'accès en utilisant le mode entreprise WPA2.
 6. À partir de la machine cliente, tester l'accès WIFI en utilisant deux comptes utilisateur différents : un appartenant au groupe WIFI et un n'appartenant pas au groupe WIFI.
 
-Pour cela on utilise trois VM de type WINDOWS SERVER 2016.
+Pour cela, on utilise trois VM de type Windows Server 2016, un point d'accès prenant en charge WPA2-Entreprise, et une VM Windows 10 pour tester la connectivité.
